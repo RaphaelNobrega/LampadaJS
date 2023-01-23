@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com foco no aprendizado de manipulação de elemen
 
 ## Referência
 
- - Fernando Leonid - https://www.youtube.com/watch?v=4r0zOW9Zn-Y&list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2&index=2
+ - Fernando Leonid - https://www.youtube.com/watch?v=4r0zOW9Zn-Y
 
 
 ## Aprendizados
